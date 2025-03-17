@@ -2,7 +2,6 @@
 
 Always keep learning...
 
-```
-Javascript
+```Javascript
 console.log('hello world');
 ```
